@@ -77,16 +77,3 @@ Your proposal must include a list of at least three (3) potential data sets for 
 **Additionally**, you will need to download each of the data sets, placing them in the provided data/ folder of your project repository. If your data is only available through a Web API rather than as a data file, you do not need to download it.
 
 
-
-# Submitting
-In order to submit your project proposal:
-
-1. Confirm that you've successfully completed the proposal (e.g., that you've completed all the sections and provided all of the required information).
-
-Please proofread your report! Make sure there aren't any half finished sentences or egregious typos, and that overall it is cleanly formatted and readable. It should be in better condition than these assignment write-ups! Moreover, since there are multiple people on your team to read it over, you should definitely have caught and fixed any mistakes
-
-2. Have one person add, commit, and push the completed proposal and the downloaded data sets to your GitHub repository. While it's fine if only one person pushes the work, we expect all group members to participate/contribute to writing the proposal!
-
-3. Submit the URL of your GitHub Repository as your assignment submission on Canvas (this page, at the top).
-
-**Since this is a group project, only one person needs to submit the link via Canvas.**
